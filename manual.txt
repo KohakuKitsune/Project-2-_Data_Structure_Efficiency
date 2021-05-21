@@ -1,0 +1,35 @@
+-----------------------------------------------------------------
+              Manual Guide of Using DataSearch.exe!!
+-----------------------------------------------------------------
+
+	Welcome user!,here is a guide for you to help you
+	how to use DataSearch.exe. It is very recommended 
+	for new users to read this manual in order to use
+	the DataSearch.exe.
+
+
+
+	1.Parameters:
+	Before Starting the program,you are required to
+	input parameters.
+	
+	The input format of the parameters should be:
+	
+	"./DataSearch.exe -d M -q N -Type"
+
+	M ==> data ammount Exp: 1e4,1e5,1e6
+	N ==> queue data ammount Exp:1e4,1e5,1e6
+
+	Type ===>Data Structure Type
+
+	List of Data Structure Type:
+	---------------------------
+	1.bst ==>Binary Search Tree
+
+	2.bs  ==>Array with binary search
+
+	3.arr ==>Array with linear search
+
+	4.ll  ==>Linked List
+
+	5.hash ==> Hash
